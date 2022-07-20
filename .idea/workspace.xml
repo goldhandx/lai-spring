@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c5a7ab3a-42b4-43d5-b49f-5b738820e7a4" name="Changes" comment="BeanDefinition,BeanDefinitionRegistry,SingletonBeanRegistry">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lai-spring.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goldhandx/BeanFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goldhandx/HelloService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goldhandx/beans/BeansException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goldhandx/beans/factory/config/BeanDefinition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goldhandx/beans/factory/config/SingletonBeanRegistry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goldhandx/beans/factory/support/AbstractAutowireCapableBeanFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goldhandx/beans/factory/support/AbstractBeanFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goldhandx/beans/factory/support/BeanDefinitionRegistry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goldhandx/beans/factory/support/DefaultListableBeanFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/goldhandx/beans/factory/support/DefaultSingletonBeanRegistry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/goldhandx/BeanFactoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goldhandx/BeanFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goldhandx/HelloService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goldhandx/beans/BeansException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goldhandx/beans/factory/config/BeanDefinition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goldhandx/beans/factory/config/SingletonBeanRegistry.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goldhandx/beans/factory/support/AbstractAutowireCapableBeanFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goldhandx/beans/factory/support/AbstractBeanFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goldhandx/beans/factory/support/BeanDefinitionRegistry.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goldhandx/beans/factory/support/DefaultListableBeanFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/goldhandx/beans/factory/support/DefaultSingletonBeanRegistry.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/goldhandx/BeanFactoryTest.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\maven\repository" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="C:\maven\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2CBrXCslzeZPQiLExTvvjLjmlLH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit4",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4": "",
+    "settings.editor.selected.configurable": "MavenSettings"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.goldhandx" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.goldhandx" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.BeanFactoryTest.testBeanFactory">
+    <configuration name="BeanFactoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lai-spring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.goldhandx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.goldhandx" />
+      <option name="MAIN_CLASS_NAME" value="com.goldhandx.BeanFactoryTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BeanFactoryTest.getBean" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lai-spring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.goldhandx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.goldhandx" />
+      <option name="MAIN_CLASS_NAME" value="com.goldhandx.BeanFactoryTest" />
+      <option name="METHOD_NAME" value="getBean" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BeanFactoryTest.testBeanFactory" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lai-spring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.goldhandx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.goldhandx" />
+      <option name="MAIN_CLASS_NAME" value="com.goldhandx.BeanFactoryTest" />
+      <option name="METHOD_NAME" value="testBeanFactory" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleBeanContainerTest.testGetBean" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lai-spring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.goldhandx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.goldhandx" />
+      <option name="MAIN_CLASS_NAME" value="com.goldhandx.SimpleBeanContainerTest" />
+      <option name="METHOD_NAME" value="testGetBean" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BeanFactoryTest.testBeanFactory" />
+        <item itemvalue="JUnit.BeanFactoryTest.getBean" />
+        <item itemvalue="JUnit.BeanFactoryTest" />
+        <item itemvalue="JUnit.SimpleBeanContainerTest.testGetBean" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5a7ab3a-42b4-43d5-b49f-5b738820e7a4" name="Changes" comment="" />
+      <created>1658286856522</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658286856522</updated>
+      <workItem from="1658286858308" duration="15196000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="BeanDefinition,BeanDefinitionRegistry,SingletonBeanRegistry" />
+    <option name="LAST_COMMIT_MESSAGE" value="BeanDefinition,BeanDefinitionRegistry,SingletonBeanRegistry" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/goldhandx/beans/factory/support/AbstractAutowireCapableBeanFactory.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
